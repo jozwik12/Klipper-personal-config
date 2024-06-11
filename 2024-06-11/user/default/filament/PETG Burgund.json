@@ -1,0 +1,70 @@
+{
+    "close_fan_the_first_x_layers": [
+        "1"
+    ],
+    "default_filament_colour": [
+        "#8F203C"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_cooling_layer_time": [
+        "50"
+    ],
+    "fan_max_speed": [
+        "40"
+    ],
+    "filament_cost": [
+        "70"
+    ],
+    "filament_flow_ratio": [
+        "0.97"
+    ],
+    "filament_max_volumetric_speed": [
+        "15"
+    ],
+    "filament_retraction_length": [
+        "0.6"
+    ],
+    "filament_settings_id": [
+        "PETG Burgund"
+    ],
+    "filament_start_gcode": [
+        "SET_ACTIVE_SPOOL ID=1 ;set Spoolman active spool\n"
+    ],
+    "filament_vendor": [
+        "3DActive"
+    ],
+    "from": "User",
+    "full_fan_speed_layer": [
+        "3"
+    ],
+    "inherits": "My Generic PETG",
+    "is_custom_defined": "0",
+    "name": "PETG Burgund",
+    "nozzle_temperature": [
+        "250"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
+    "nozzle_temperature_range_high": [
+        "0"
+    ],
+    "nozzle_temperature_range_low": [
+        "0"
+    ],
+    "overhang_fan_speed": [
+        "40"
+    ],
+    "overhang_fan_threshold": [
+        "50%"
+    ],
+    "pressure_advance": [
+        "0.03"
+    ],
+    "slow_down_layer_time": [
+        "10"
+    ],
+    "version": "1.6.1.0"
+}

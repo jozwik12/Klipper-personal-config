@@ -1,0 +1,55 @@
+{
+    "default_filament_colour": [
+        "#1FC73D"
+    ],
+    "fan_max_speed": [
+        "90"
+    ],
+    "fan_min_speed": [
+        "90"
+    ],
+    "filament_cost": [
+        "54"
+    ],
+    "filament_density": [
+        "1.25"
+    ],
+    "filament_flow_ratio": [
+        "1.01"
+    ],
+    "filament_settings_id": [
+        "PLA Green (shitty)"
+    ],
+    "filament_vendor": [
+        "Plastspaw"
+    ],
+    "filament_z_hop": [
+        "0.1"
+    ],
+    "filament_z_hop_types": [
+        "Slope Lift"
+    ],
+    "from": "User",
+    "inherits": "My Generic PLA",
+    "is_custom_defined": "0",
+    "name": "PLA Green (shitty)",
+    "nozzle_temperature": [
+        "200"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "200"
+    ],
+    "nozzle_temperature_range_high": [
+        "225"
+    ],
+    "nozzle_temperature_range_low": [
+        "185"
+    ],
+    "overhang_fan_speed": [
+        "90"
+    ],
+    "pressure_advance": [
+        "0.03"
+    ],
+    "version": "2.0.2.0"
+}
